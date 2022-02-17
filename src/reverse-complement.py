@@ -3,10 +3,10 @@ NAME
 	reverse-complement.py
     
 VERSION
-    2.0
+    1.0
     
 AUTHOR
-    Shirley Alquicira	
+	
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence
