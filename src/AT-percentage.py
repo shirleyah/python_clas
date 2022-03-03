@@ -2,10 +2,10 @@
        AT-percentage
 
 VERSION
-        1.0
+        2.0
 
 AUTHOR
-	Shirley Alquicira        
+	Shirley Alquicira Hernández       
 
 DESCRIPTION
         Calculate percentage of AT on a genome sequence
