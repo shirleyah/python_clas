@@ -2,7 +2,7 @@
 
  __Nombre:__ Shirley  Alquicira
 
-*Fecha: 03/02/2022*
+*Fecha: 03/03/2022*
 
 [LCG](https://www.lcg.unam.mx/)
 
@@ -41,4 +41,8 @@ var x=1;
 | Subtítulo | ##       |      |      |
 |           |          |      |      |
 |           |          |      |      |
+
+
+## Tema: Git y GitHub
+
 
