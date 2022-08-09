@@ -2,7 +2,7 @@
        AT-percentage
 
 VERSION
-        2.0
+        3.0
 
 AUTHOR
 	Shirley AH        
